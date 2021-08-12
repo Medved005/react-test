@@ -1,0 +1,22 @@
+//JavaScript
+1. My favourite new javascript feature is Nullish Coalescing & Equals (??=)
+
+2. We can use this feature to reduce code. For example, in vanilla javascript we use this code (result = (a !== null && a !== undefined) ? a : b;) but with this 
+feature we can write like this (result = a ?? b).
+
+3. If you are using arrow function and you have one parameter you can remove parentheses and also you can remove return statement and write your code in one line.
+
+4. myFunctionCall(++foo) returns the value of foo after it has been incremented. It is a pre-increment operator since ++ comes before the operand.
+myFunctionCall(foo++) returns the value of foo before incrementing. It is a post-increment operator since ++ comes after the operand.
+
+5. With class you can use inheritance more easily. But in prototype inheritance, an object is instantiated directly from another parent object, without ever needing any "blueprints".
+
+//Css
+6. In HTML you create website structure, but in CSS you make website design and you can also make awesome animations to make your website unique.
+7. We use !important when we want to set priority in any css style.
+8. I prefer flex, because it gives you a lot of opportunity and with flex you can make your design responsive.
+9. They are legal and you can use it when it is necessary.
+10. We will set <div> tag style overflow: hidden
+
+//Unit Testing
+11. I have an idea of Jest testing tool, but I never used it in practice.
